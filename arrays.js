@@ -36,7 +36,7 @@ function destructivelyAddElementToEndOfArray(array,element){
     return (3)
   }
   function RemoveElementFromBeginningOfArray(array){
-    .slice(2,3 )
+    chocolateBars.slice([2,3] )
      return array
   }
   
